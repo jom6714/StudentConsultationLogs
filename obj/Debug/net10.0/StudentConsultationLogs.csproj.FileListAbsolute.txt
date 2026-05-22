@@ -1,0 +1,14 @@
+C:\Users\Ryzen 5 7600\Downloads\StudentConsultationLogs\bin\Debug\net10.0\StudentConsultationLogs.exe
+C:\Users\Ryzen 5 7600\Downloads\StudentConsultationLogs\bin\Debug\net10.0\StudentConsultationLogs.deps.json
+C:\Users\Ryzen 5 7600\Downloads\StudentConsultationLogs\bin\Debug\net10.0\StudentConsultationLogs.runtimeconfig.json
+C:\Users\Ryzen 5 7600\Downloads\StudentConsultationLogs\bin\Debug\net10.0\StudentConsultationLogs.dll
+C:\Users\Ryzen 5 7600\Downloads\StudentConsultationLogs\bin\Debug\net10.0\StudentConsultationLogs.pdb
+C:\Users\Ryzen 5 7600\Downloads\StudentConsultationLogs\obj\Debug\net10.0\StudentConsultationLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen 5 7600\Downloads\StudentConsultationLogs\obj\Debug\net10.0\StudentConsultationLogs.AssemblyInfoInputs.cache
+C:\Users\Ryzen 5 7600\Downloads\StudentConsultationLogs\obj\Debug\net10.0\StudentConsultationLogs.AssemblyInfo.cs
+C:\Users\Ryzen 5 7600\Downloads\StudentConsultationLogs\obj\Debug\net10.0\StudentConsultationLogs.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen 5 7600\Downloads\StudentConsultationLogs\obj\Debug\net10.0\StudentConsultationLogs.dll
+C:\Users\Ryzen 5 7600\Downloads\StudentConsultationLogs\obj\Debug\net10.0\refint\StudentConsultationLogs.dll
+C:\Users\Ryzen 5 7600\Downloads\StudentConsultationLogs\obj\Debug\net10.0\StudentConsultationLogs.pdb
+C:\Users\Ryzen 5 7600\Downloads\StudentConsultationLogs\obj\Debug\net10.0\StudentConsultationLogs.genruntimeconfig.cache
+C:\Users\Ryzen 5 7600\Downloads\StudentConsultationLogs\obj\Debug\net10.0\ref\StudentConsultationLogs.dll
